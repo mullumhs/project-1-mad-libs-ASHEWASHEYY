@@ -2,8 +2,8 @@
 
 Teacher: David Steedman
 
-This repository contains labs and projects for the Software Engineering class. 
-Each focuses on developing specific programming skills in Python.
+This repository contains Project 2 and the corresponding labs for the MHS Software Engineering class. 
+Each lab focuses on developing specific beginner programming skills in Python.
 
 ### Lab 1: Hello World
 - File: [`lab1.py`](lab1.py)
